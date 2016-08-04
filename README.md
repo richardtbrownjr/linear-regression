@@ -1,11 +1,10 @@
 Start Up
-using python start at the terminal.  type jupyter notebooks (or open up online) to view
+can open to display linear-regression.ipynb from any web browser
 
 Description
 
-Brief look at Statistics using python, matplotlib  on the below data:
-Ground cricket chirps
-Brain vs. Body Weight
-Salary Discrimination
+Exploring the data through the use of pandas and scikit-learn:
 
-With the data there are some limited predictive analysis.
+Ground cricket chirps - predict change in chirps based on temp.
+Brain vs. Body Weight - predict body weight base on brain weight
+Salary Discrimination - predict salary based on database.
